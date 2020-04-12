@@ -1,2 +1,3 @@
 # Covid19
-Validation of Covid19
+
+自分なりに検証した内容を記していく
